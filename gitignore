@@ -1,0 +1,16 @@
+# Model weights and training artifacts
+*.pt
+runs/
+wrist_fracture_yolov8/
+
+# Dataset
+dataset/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
